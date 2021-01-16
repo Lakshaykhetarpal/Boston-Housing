@@ -1,2 +1,2 @@
 # Boston-Housing
-Predicting the house prices on the basis of various house features
+Predicting the price of house on the basis of various features.
